@@ -8,7 +8,7 @@ My dots for [picom](https://github.com/yshui/picom/tree/next).
 
 ## 🤔 HowTo: Install
 
-1. First install [picom](https://github.com/yshui/picom/tree/next).
+1. First install [picom](https://github.com/FT-Labs/picom/tree/generalanimation): `yay -S picom-ftlabs-git`
 2. Make your DE/WM autostart picom
 3. `git` clone this repo:
 

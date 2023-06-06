@@ -19,7 +19,7 @@ git clone https://github.com/asyncedd/pi-dots.git ~/.config/picom
 4. Run picom:
 
 ```bash
-picom --experimental-backends
+picom
 ```
 
 5. ???
